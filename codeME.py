@@ -22,7 +22,7 @@ with open ("complaint.csv", "w", newline='') as f:
                     print(row)
             for ro in r:
                 if ro[0]==dat:
-                    print(row)
+                    print(ro)
                 else:
                     print('Wrong date')
             f.close()
