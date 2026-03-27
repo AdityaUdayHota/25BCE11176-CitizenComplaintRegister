@@ -1,7 +1,7 @@
 # 25BCE11176-CitizenComplaintRegister
 - Name-Aditya Uday Hota
 - Reg no.-25BCE11176
-- Course-CSE1021(Problem solving and python programming)
+- Course-CSA2001(Introduction to AI and ML)
 # OVERVIEW
 The aim of this project is to register and store the complaints of the common people.
 The information in the storage will be;
